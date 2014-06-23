@@ -1,0 +1,36 @@
+{
+  "name": "3dvinyls.js",
+  "homepage": "https://github.com/risq/3dvinyls.js",
+  "authors": [
+    "risq <valentin.ledrapier@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "main": "dist/3dvinyls.js",
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "http://threejs.org/build/three.min.js",
+    "modernizr": "~2.8.2",
+    "tween.js": "https://github.com/sole/tween.js.git"
+  },
+  "_release": "dacaebd76d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "dacaebd76d28910c547207f9e9c20819afcc9aaf"
+  },
+  "_source": "git@github.com:risq/3dvinyls.js.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:risq/3dvinyls.js.git",
+  "_direct": true
+}

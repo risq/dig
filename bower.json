@@ -1,0 +1,22 @@
+{
+  "name": "dig",
+  "version": "0.0.1",
+  "homepage": "https://github.com/risq/dig",
+  "authors": [
+    "risq <valentin.ledrapier@gmail.com>"
+  ],
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/component",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "3dvinyls.js": "git@github.com:risq/3dvinyls.js.git"
+  }
+}
